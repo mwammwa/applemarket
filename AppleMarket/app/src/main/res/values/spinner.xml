@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="내배캠동">
+        <item name="당근동" type="string" />
+        <item name="사과동" type="string" />
+        <item name="포도동" type="string" />
+        <item name="배동" type="string" />
+    </string>
+</resources>
